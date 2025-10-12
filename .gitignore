@@ -1,2 +1,3 @@
 arxiv_data.csv
 venv/
+cosine_similarity_matrix.npy
